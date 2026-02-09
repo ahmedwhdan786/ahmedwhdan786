@@ -81,7 +81,7 @@ through practical projects.
   <img alt="Facebook" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"/>
 </a>
-<a href="https://t.me/011" target="_blank">
+<a href="https://t.me/+201100259078" target="_blank">
   <img alt="Telegram" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg"/>
 </a>
